@@ -18,14 +18,15 @@ End the program
 ```
 #Program to find the inverse of a matrix.
 #Developed by: NAVEEN KUMAR.B
-#RegisterNumber:22008970
+#RegisterNumber:212222230091
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 inverse=np.linalg.inv(A)
 print(inverse)
 ```
 ## Output:
-![inverse of a matrix trrim](https://github.com/mrnaviz/INVERSE-OF-A-MATRIX/assets/123350791/98c33e17-17a3-4817-ac5e-997f4d0c6321)
+![inverse of a matrix](https://github.com/mrnaviz/INVERSE-OF-A-MATRIX/assets/123350791/3c852ad4-cd40-4c6b-8d90-1af747f163fb)
+
 
 
 ## Result:
